@@ -1,8 +1,8 @@
 # Odusanya Wasiu Olashile
 
-## Cybersecurity Professional | IT & Information Security
+## IT & Information Security
 
-I am **Odusanya Wasiu Olashile**, a **Cybersecurity Professional** with a **Bachelor of Science in Information Technology** and a strong technical foundation in **Networking, Network Security, Ethical Hacking, Threat Modeling, Threat Intelligence, Vulnerability Management, Incident Response, and Technical Documentation**.
+I am **Odusanya Wasiu Olashile**, a **IT & Information Security Professional** with a **Bachelor of Science in Information Technology** and a strong technical foundation in **Networking, Network Security, Ethical Hacking, Threat Modeling, Threat Intelligence, Vulnerability Management, Incident Response, and Technical Documentation**.
 
 I have developed practical capabilities in assessing technology environments, identifying vulnerabilities, analyzing threats, performing security testing, investigating security incidents, and documenting technical findings. My background in Information Technology provides a broad understanding of **computer systems, operating systems, networks, IT infrastructure, and technical troubleshooting**, which I apply within cybersecurity and information-security contexts.
 
